@@ -1,3 +1,4 @@
+//https://youtu.be/DGGlPMd-Vts
 bloque[] fila, fila2, fila3, fila4, fila5, fila6, fila7;
 int puntos, vidas, pant;
 float Px, Py, Rx, Ry, RxAncho, RyAlto, Vx, Vy, Vrx;
