@@ -80,7 +80,7 @@ void draw(){
 void mousePressed(){
  if(mousePressed == true){
   if(mouseX >= rectx && mouseX <= (rectx + 100) && mouseY >= recty && mouseY <= (recty + 60) && screen == 0){
-  screen = 4;}
+  screen++;}
   else if (mouseX >= rectx && mouseX <= (rectx + 100) && mouseY >= recty && mouseY <= (recty + 60) && screen == 5){
    screen = 0;}
  }
